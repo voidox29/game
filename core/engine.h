@@ -3,7 +3,7 @@
 
 #include <SFML/Graphics.hpp>
 
-namespace game
+namespace game {
 
 /*  contain functions that will be used to perform certain actions that will be needed by the game */
 
@@ -17,4 +17,3 @@ sf::RectangleShape getRectangleAt(sf::Vector2f location, sf::Color);
 }
 
 #endif
-
