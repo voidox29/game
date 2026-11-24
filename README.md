@@ -1,1 +1,1 @@
-A gaming interface developed using C++.
+A gaming interface developed using C++ modifying an open-source game model **sfml-game**.
