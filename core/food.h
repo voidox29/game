@@ -10,7 +10,7 @@ namespace game {
 
 	class Food {
 		public:
-			Food(sf::RenderWindow *, sf::Vector2f loc); //where it is drawn and appears on the screen
+			Food(sf::RenderWindow *, sf::Vector2f loc); //initializes window and location
 			sf::RectangleShape getFood(); //from the sfml third-party library use the function RectangleShape and make a function getFood() 
 			void drawFood(); //renders the food on the game screen
 
