@@ -5,7 +5,7 @@
 
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include <random> //used to generate food at random locations
+/* removed random library from this file */
 namespace game {
 
 	class Food {
